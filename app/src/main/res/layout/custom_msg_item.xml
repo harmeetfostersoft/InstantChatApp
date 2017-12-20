@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layout_message"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxWidth="300dp"
+            android:textColor="@color/white"
+            android:background="@drawable/button_background"
+            android:padding="10dp"
+            android:textSize="14sp"
+            android:layout_margin="5dp"
+            android:id="@+id/tv_message"
+            android:text="@string/hjddh_djhfdj_fhdjh_fjdhfj"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            android:id="@+id/tv_message_date"
+            android:textSize="8sp"
+            android:textColor="@color/black"
+            android:layout_marginRight="5dp"
+            android:text="06/12/2017 11:12"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">InstantChatApp</string>
+    <string name="show_chat_history">Show Chat History</string>
+    <string name="show_all_users">Show All Users</string>
+    <string name="show_friend_list">Show Friend List</string>
+    <string name="write_a_message">Write a message...</string>
+    <string name="login">Login</string>
+    <string name="click_here_to_register">Click here to register</string>
+    <string name="enter_username">enter username</string>
+    <string name="enter_password">enter password</string>
+    <string name="register">Register</string>
+    <string name="click_here_to_login">Click here to login</string>
+    <string name="no_users_found">No Orders found!</string>
+    <string name="no_friend_found">No friend found</string>
+    <string name="no_chat_found">No recent message found</string>
+    <string name="enter_order_id">Enter Order Id</string>
+    <string name="show_all_posts">Show all posts</string>
+    <string name="post_an_order">Post an Order</string>
+    <string name="enter_order_title">Enter Order Title</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="post">Post</string>
+    <string name="goto_home">Goto Home</string>
+    <string name="message">Message</string>
+    <string name="hjddh_djhfdj_fhdjh_fjdhfj">hjddh djhfdj fhdjh fjdhfj</string>
+</resources>

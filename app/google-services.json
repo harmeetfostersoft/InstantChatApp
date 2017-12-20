@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "449478925695",
+    "firebase_url": "https://instantchatapp-87f7c.firebaseio.com",
+    "project_id": "instantchatapp-87f7c",
+    "storage_bucket": "instantchatapp-87f7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449478925695:android:84ad21f143015d74",
+        "android_client_info": {
+          "package_name": "com.reshmast.instantchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449478925695-8rkvku248fnsmakhp8nop7oamas50od9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reshmast.instantchatapp",
+            "certificate_hash": "01a24fb29bcf44766fba66308a2001d03dc65f59"
+          }
+        },
+        {
+          "client_id": "449478925695-skn5vau26n41gtn0lk4oc7g26teug5eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeUeKO9EZK5U6Ll3zp1H65HjMo7ineLc0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449478925695-skn5vau26n41gtn0lk4oc7g26teug5eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
